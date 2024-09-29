@@ -1,0 +1,2 @@
+shell: main.c loop.c read.c cd.c echo.c getargs.c ls.c pinfo.c pwd.c run.c start.c redirection.c piping.c setenv.c unsetenv.c jobs.c kjob.c fg.c bg.c overkill.c
+		gcc -o shell main.c loop.c read.c cd.c echo.c getargs.c ls.c pinfo.c pwd.c run.c start.c redirection.c piping.c setenv.c unsetenv.c jobs.c kjob.c fg.c bg.c overkill.c -I.
