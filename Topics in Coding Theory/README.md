@@ -1,1 +1,1 @@
-Working with galois fields, polynomials and implementating encoding and decoding procedures (Berlekamp–Welch) of Reed Solomon codes. 
+Working with Galois fields, polynomials and implementing encoding and decoding procedures (Berlekamp–Welch) of Reed Solomon codes. 
